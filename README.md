@@ -37,7 +37,14 @@ Autarization form, website, basket
 - Figma 1 lvl
 
 ## SCV
-- GitHub 2 lvl
+- GitHub
+- GitHub Desktop
+- Branching
+- Push
+- Pull
+- Commit
+- Checkout
+- Pull request
 
 ## IDE
 - VS Code 1 lvl
